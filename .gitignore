@@ -1,0 +1,11 @@
+.vscode
+
+app/node_modules
+app/npm-debug.log
+
+app/04.0/build
+app/04.0/node_modules
+app/04.1/build
+app/04.1/node_modules
+
+app/05.0/node_modules

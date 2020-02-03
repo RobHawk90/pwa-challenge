@@ -1,0 +1,25 @@
+{
+  "name": "pwa-challenge",
+  "version": "1.0.0",
+  "description": "The resulting project from Sigalei challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "cors-server": "node 03.2/echo-servers/cors-server.js",
+    "no-cors-server": "node 03.2/echo-servers/no-cors-server.js"
+  },
+  "author": "RobHawk",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-loader": "^3.0.3",
+    "eslint-plugin-prettier": "^3.1.2",
+    "express": "^4.16.2",
+    "multer": "^1.3.0",
+    "prettier": "^1.19.1"
+  }
+}
